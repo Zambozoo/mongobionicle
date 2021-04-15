@@ -28,7 +28,7 @@
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
             <b-nav-item href="https://lego.com/">LEGO®</b-nav-item>
-            <b-nav-item href="https://github.com/Zambozoo/bionicle-vue">Github</b-nav-item>
+            <b-nav-item href="https://github.com/Zambozoo/mongobionicle">Github</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>
